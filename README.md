@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name Kumar Akhil, a doctoral researcher in experimental physics. My proper research journey started with appreciating the concepts of 
+My name Kumar Akhil, a researcher in experimental physics. My proper research journey started with appreciating the concepts of 
 special relativity and has been shaped by a curiosity for how precision instrumentation enables us to probe the universe from gravitational wave detectors to emerging quantum technologies. 
 I’m passionate about learning, driven by scientific exploration, and inspired by the beauty of both nature and ideas. 
 I enjoy travelling and discovering new perspectives both cultural and conceptual.
